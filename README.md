@@ -12,6 +12,8 @@
 
 [OpenJade](https://github.com/dekamaru/openjade)는 원작 게임 파일을 그대로 읽어 실행하는 '페르시아의 왕자' 3부작 엔진 재구현입니다. 이 팩은 OpenJade에서 '전사의 길'을 한국어로 즐길 수 있게 해 주는 **언어 팩**입니다. 게임 파일은 건드리지 않고, OpenJade의 `Languages` 폴더에 한국어를 추가합니다.
 
+같은 방식의 한글 패치: [시간의 모래](https://github.com/slam64/PoPSoT-Korean-Patch) · [두 개의 왕좌](https://github.com/slam64/PoPT2T-Korean-Patch)
+
 ## 목차
 
 - [다운로드](#다운로드)
